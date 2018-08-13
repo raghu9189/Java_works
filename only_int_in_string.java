@@ -15,13 +15,13 @@ public class scratch_2 {
            temp1 += String.valueOf(c);
         }
         else{
-            if(!"".equals(temp1)){// temp1 != ""
+            if(!"".equals(temp1)){// ( temp1 != "" )
             list.add(Integer.parseInt(temp1));
         }
             temp1 = "";
         }
     }
-    if( !"".equals(temp1)){// temp1 != ""
+    if( !"".equals(temp1)){// ( temp1 != "" )
        list.add(Integer.parseInt(temp1));
     }
     Integer[] numbers = list.toArray(new Integer[list.size()]);
