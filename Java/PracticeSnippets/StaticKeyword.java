@@ -1,4 +1,4 @@
-package Java;
+package Java.PracticeSnippets;
 class StaticClass{
     int rollNo;
     String name;

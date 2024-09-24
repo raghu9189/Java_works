@@ -1,4 +1,4 @@
-package Java;
+package Java.PracticeSnippets;
 public class PatternProgram {
     public static void main(String[] args) {
         pattern4(6);

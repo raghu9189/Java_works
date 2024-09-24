@@ -1,4 +1,4 @@
-package Java;
+package Java.PracticeSnippets;
 // Encapsulation -> Binding data with method
 class Student
 {

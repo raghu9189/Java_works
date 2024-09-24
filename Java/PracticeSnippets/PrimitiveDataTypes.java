@@ -1,4 +1,4 @@
-package Java;
+package Java.PracticeSnippets;
 public class PrimitiveDataTypes {
     public static void main(String[] args) {
         // byte - 8-bit signed integer

@@ -1,4 +1,4 @@
-package Java;
+package Java.PracticeSnippets;
 //Method Overriding Example
 class Bank{
     int getRate(){

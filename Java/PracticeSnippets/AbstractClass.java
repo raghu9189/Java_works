@@ -1,4 +1,4 @@
-package Java;
+package Java.PracticeSnippets;
 abstract class PersonA{
     public void name() {
         System.out.println("Name : Person A");

@@ -1,4 +1,4 @@
-package Java;
+package Java.PracticeSnippets;
 import java.util.Vector;
 import java.util.Scanner;
 public class ReturnNum {
