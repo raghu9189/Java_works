@@ -1,0 +1,11 @@
+PARAMETER → PLACEHOLDER (This means a placeholder belongs to the function naming and be used in the function body)
+ARGUMENT → ACTUAL VALUE (This means an actual value which is passed by the function calling)
+
+from a function's perspective:
+
+A parameter is the variable listed inside the parentheses in the function definition.
+An argument is the value that is sent to the function when it is called.
+
+Rule:
+Always Remember that:
+Arguments are passed while parameters are received.
