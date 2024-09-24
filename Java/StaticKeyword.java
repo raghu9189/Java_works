@@ -1,3 +1,4 @@
+package Java;
 class StaticClass{
     int rollNo;
     String name;

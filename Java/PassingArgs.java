@@ -1,3 +1,4 @@
+package Java;
 public class PassingArgs {
     public static void main(String[] args) {
         for(String item: args){
