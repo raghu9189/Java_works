@@ -1,2 +1,6 @@
 # Ignore compiled Java class files
 *.class
+out/
+.vscode
+.idea
+Java_works.iml

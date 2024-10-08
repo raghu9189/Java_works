@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ThreadPriorityDemo",
+            "request": "launch",
+            "mainClass": "Java.PracticeSnippets.ThreadPriorityDemo",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
             "name": "ThreadCustom",
             "request": "launch",
             "mainClass": "Java.PracticeSnippets.ThreadCustom",

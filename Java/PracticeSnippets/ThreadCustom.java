@@ -1,5 +1,7 @@
 package Java.PracticeSnippets;
-
+class MythreadClass{
+    
+}
 public class ThreadCustom {
     public static void main(String[] args) throws Exception{
         Runnable task = ()->{
