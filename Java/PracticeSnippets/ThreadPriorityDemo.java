@@ -49,7 +49,9 @@ public class ThreadPriorityDemo {
         System.out.println("Start thread C");
         threadC.start();
 
+        System.out.println(threadA.getName() + " " + threadB.getName() + " " + threadC.getName());
         System.out.println("End of main thread");
+        System.out.println("Current Thread ID: " + Thread.currentThread().threadId());
         
     }
 }

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TwoPointerPali",
+            "request": "launch",
+            "mainClass": "Java.DSA.TwoPointerPali",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
             "name": "ThreadPriorityDemo",
             "request": "launch",
             "mainClass": "Java.PracticeSnippets.ThreadPriorityDemo",
