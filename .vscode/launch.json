@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ThreadCustom",
+            "request": "launch",
+            "mainClass": "Java.PracticeSnippets.ThreadCustom",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "ThreadDemoIsAlive",
+            "request": "launch",
+            "mainClass": "Java.PracticeSnippets.ThreadDemoIsAlive",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "ThreadDemoSync",
+            "request": "launch",
+            "mainClass": "Java.PracticeSnippets.ThreadDemoSync",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "ThreadDemoLambda",
+            "request": "launch",
+            "mainClass": "Java.PracticeSnippets.ThreadDemoLambda",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "ThreadDemoImplementsRunnable",
+            "request": "launch",
+            "mainClass": "Java.PracticeSnippets.ThreadDemoImplementsRunnable",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AbstractClass",
+            "request": "launch",
+            "mainClass": "Java.PracticeSnippets.AbstractClass",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "EncapsulationDemo",
+            "request": "launch",
+            "mainClass": "Java.PracticeSnippets.EncapsulationDemo",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "InherExample",
+            "request": "launch",
+            "mainClass": "Java.PracticeSnippets.InherExample",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceExample",
+            "request": "launch",
+            "mainClass": "Java.PracticeSnippets.InterfaceExample",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "PassingArgs",
+            "request": "launch",
+            "mainClass": "Java.PracticeSnippets.PassingArgs",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "PatternProgram",
+            "request": "launch",
+            "mainClass": "Java.PracticeSnippets.PatternProgram",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "PrimitiveDataTypes",
+            "request": "launch",
+            "mainClass": "Java.PracticeSnippets.PrimitiveDataTypes",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "StaticKeyword",
+            "request": "launch",
+            "mainClass": "Java.PracticeSnippets.StaticKeyword",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "ThreadDemo",
+            "request": "launch",
+            "mainClass": "Java.PracticeSnippets.ThreadDemo",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "StringExcercise",
+            "request": "launch",
+            "mainClass": "StringExcercise",
+            "projectName": "Java_works_8e31fd1e"
+        }
+    ]
+}
