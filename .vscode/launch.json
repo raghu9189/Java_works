@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AlphabetOrNot",
+            "request": "launch",
+            "mainClass": "Java.Basics.AlphabetOrNot",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "HashMapWithUniqKeys",
+            "request": "launch",
+            "mainClass": "Java.DSA.HashMapWithUniqKeys",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
             "name": "TwoPointerPali",
             "request": "launch",
             "mainClass": "Java.DSA.TwoPointerPali",
