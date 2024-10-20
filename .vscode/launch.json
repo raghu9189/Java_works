@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GenericExample",
+            "request": "launch",
+            "mainClass": "GenericExample",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "StreamsExample",
+            "request": "launch",
+            "mainClass": "StreamsExample",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "ClassTypeExample",
+            "request": "launch",
+            "mainClass": "ClassTypeExample",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceExample",
+            "request": "launch",
+            "mainClass": "InterfaceExample",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
             "name": "AlphabetOrNot",
             "request": "launch",
             "mainClass": "Java.Basics.AlphabetOrNot",
