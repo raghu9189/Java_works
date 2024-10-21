@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringObject",
+            "request": "launch",
+            "mainClass": "StringObject",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionsExample",
+            "request": "launch",
+            "mainClass": "ExceptionsExample",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "MemoryMan",
+            "request": "launch",
+            "mainClass": "MemoryMan",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
+            "name": "CollectionsExample",
+            "request": "launch",
+            "mainClass": "CollectionsExample",
+            "projectName": "Java_works_8e31fd1e"
+        },
+        {
+            "type": "java",
             "name": "GenericExample",
             "request": "launch",
             "mainClass": "GenericExample",
